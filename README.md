@@ -24,6 +24,7 @@ Node.js streams are a powerful and flexible way to transfer data between differe
 - **Data Integrity**: Reading a large file can also introduce issues with data integrity. For example, if we're processing a large text file and we encounter a corrupt or malformed line, this can cause errors in our processing. Similarly, if we're processing a large database file and we encounter corrupted or inconsistent data, this can cause issues with our analysis.
 
 ![Screenshot (317)](https://user-images.githubusercontent.com/88813613/235917073-ca134ad8-61c5-419b-924e-17626d21daed.png)
+picture courtesy: <a href="">coder's gyan</a>
 
 ## **Process of Streaming**
 
